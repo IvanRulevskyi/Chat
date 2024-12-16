@@ -1,0 +1,12 @@
+/Users/ivanrulevskiy/Desktop/WL/Network programming/Chat/Server/ClassLibrary/bin/Debug/net8.0/ClassLibrary.deps.json
+/Users/ivanrulevskiy/Desktop/WL/Network programming/Chat/Server/ClassLibrary/bin/Debug/net8.0/ClassLibrary.dll
+/Users/ivanrulevskiy/Desktop/WL/Network programming/Chat/Server/ClassLibrary/bin/Debug/net8.0/ClassLibrary.pdb
+/Users/ivanrulevskiy/Desktop/WL/Network programming/Chat/Server/ClassLibrary/obj/Debug/net8.0/ClassLibrary.csproj.AssemblyReference.cache
+/Users/ivanrulevskiy/Desktop/WL/Network programming/Chat/Server/ClassLibrary/obj/Debug/net8.0/ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanrulevskiy/Desktop/WL/Network programming/Chat/Server/ClassLibrary/obj/Debug/net8.0/ClassLibrary.AssemblyInfoInputs.cache
+/Users/ivanrulevskiy/Desktop/WL/Network programming/Chat/Server/ClassLibrary/obj/Debug/net8.0/ClassLibrary.AssemblyInfo.cs
+/Users/ivanrulevskiy/Desktop/WL/Network programming/Chat/Server/ClassLibrary/obj/Debug/net8.0/ClassLibrary.csproj.CoreCompileInputs.cache
+/Users/ivanrulevskiy/Desktop/WL/Network programming/Chat/Server/ClassLibrary/obj/Debug/net8.0/ClassLibrary.dll
+/Users/ivanrulevskiy/Desktop/WL/Network programming/Chat/Server/ClassLibrary/obj/Debug/net8.0/refint/ClassLibrary.dll
+/Users/ivanrulevskiy/Desktop/WL/Network programming/Chat/Server/ClassLibrary/obj/Debug/net8.0/ClassLibrary.pdb
+/Users/ivanrulevskiy/Desktop/WL/Network programming/Chat/Server/ClassLibrary/obj/Debug/net8.0/ref/ClassLibrary.dll
